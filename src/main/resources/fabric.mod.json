@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "minecraft-mod",
+  "version": "1.0.0",
+  "name": "Minecraft Mod",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.college.i923a.Main"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.7",
+    "minecraft": ">=1.20.1 <1.22-"
+  }
+}
