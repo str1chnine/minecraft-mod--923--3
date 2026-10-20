@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "minecraft-mod",
   "version": "1.0.0",
-  "name": "Minecraft Mod",
+  "name": "BlockBread",
   "environment": "*",
   "entrypoints": {
     "main": [

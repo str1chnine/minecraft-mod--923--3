@@ -10,5 +10,6 @@ public class Main implements ModInitializer {
     @Override
     public void onInitialize() {
         LOGGER.info("Проект загружен успешно");
+        ModBlocks.initialize(); // <--- ВАЖНО: добавь эту строку
     }
 }
