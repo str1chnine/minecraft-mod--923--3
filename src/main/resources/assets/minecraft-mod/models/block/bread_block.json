@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:item/bread"
+    "all": "minecraft-mod:block/bread_block"
   }
 }
