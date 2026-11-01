@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cake_slice3",
+  "textures": {
+    "particle": "minecraft-mod:block/bread_block",
+    "bottom": "minecraft-mod:block/bread_block",
+    "side": "minecraft-mod:block/bread_block",
+    "top": "minecraft-mod:block/bread_block"
+  }
+}

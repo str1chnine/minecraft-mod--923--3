@@ -1,5 +1,13 @@
 {
   "variants": {
-    "": { "model": "minecraft-mod:block/bread_block" }
+    "bites=0,stage=0": { "model": "minecraft-mod:block/bread_block" },
+    "bites=1,stage=0": { "model": "minecraft-mod:block/bread_block_slice1" },
+    "bites=2,stage=0": { "model": "minecraft-mod:block/bread_block_slice2" },
+    "bites=3,stage=0": { "model": "minecraft-mod:block/bread_block_slice3" },
+    "bites=4,stage=0": { "model": "minecraft-mod:block/bread_block_slice4" },
+    "bites=5,stage=0": { "model": "minecraft-mod:block/bread_block_slice5" },
+    "bites=6,stage=0": { "model": "minecraft-mod:block/bread_block_slice6" },
+    "stage=1": { "model": "minecraft-mod:block/bread_block_moldy" },
+    "stage=2": { "model": "minecraft-mod:block/bread_block_rotten" }
   }
 }

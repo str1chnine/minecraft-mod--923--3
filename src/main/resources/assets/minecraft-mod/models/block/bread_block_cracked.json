@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft-mod:block/bread_block_cracked"
+  }
+}
