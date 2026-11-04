@@ -1,0 +1,8 @@
+/give @s minecraft-mod:bread_block
+/gam
+/gamemode creative
+/give @s minecraft:bread 9
+/setblock ~ ~ ~ minecraft-mod:bread_block[stage=1]
+/setblock ~ ~ ~ minecraft-mod:bread_block[stage=2]
+/setblock ~ ~ ~ minecraft-mod:bread_block[stage=3]
+/gamemode survival
